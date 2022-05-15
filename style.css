@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    font-family: ARCADEPIX;
+    text-align: center;
+}
+
+body {
+    background-color: #000000;
+}
+
+#border1 {
+    background: linear-gradient(#cd5af0ab,#cd5af0ab,#f3262600,#f3262600,#f3262600,#f3262600,#f3262600,#cf9999),url("titlescreen.png");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    }
+
+#border2 {
+    background-color: #cf9999;
+    background-position: center;
+    height: 100vh;
+}
+
+#Logo {
+	text-align: left;
+}
+
+#About {
+	text-align: center;
+}
+
+#Gallery {
+	text-align: center;
+}
+
+#section1 {
+    margin: 42px;
+}
+
+#section4 {
+    margin: 14px;
+}
+
+#section1 h1 {font-family: ARCADEPIX;
+	font-size: 30px;
+	}
+#section1 p {font-family: ARCADEPIX;
+	font-size: 15px;
+	}
+#section2 h1 {font-family: ARCADEPIX;
+	font-size: 30px;
+	}
+#section2 p {font-family: ARCADEPIX;
+	font-size: 15px;
+	}
+#section3 h1 {font-family: ARCADEPIX;
+	font-size: 40px;
+	}
+#section4 h1 {font-family: ARCADEPIX;
+	font-size: 45px;
+    color:rgb(255, 255, 255)
+	}
+#section5 {
+    margin: 42px;
+}
+#border2 h1 {font-family: ARCADEPIX;
+	font-size: 30px;
+    text-align: center;
+    padding-top: 90px;
+    margin-right: 350px;
+    margin-left: 350px;
+	}
+
+#img1 {font-family: ARCADEPIX;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 90px;
+    }
+
+.links {
+    text-align: center;
+    padding: 20px;
+}
+
+#bottom_nav a {
+    padding: 10px;
+}
+
+#release_date{
+    padding: 20px;
+    font-size: 25px;
+}
+
+#Sythil{
+    position: relative;
+    top: 51px;
+    text-align: bottom;
+}    
+
+.section5 {
+    list-style: none;
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+  
+  .section5 li {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+  
+  .section5 li a {
+    transition: all 0.1s ease 0s;
+  }
+  
+  .section5 li a:hover {
+    color: #e4e4e4;
+  }
+
+  li,
+a {
+  font-weight: 500;
+  font-size: 25px;
+  color: #b4b7b8;
+  text-decoration: none;
+}
+
+#section1 {text-align: center;}
+#section2 {text-align: center;}
+#section3 {text-align: center;}
+#section4 {text-align: center;}
+
+img{
+user-select: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
